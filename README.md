@@ -9,7 +9,7 @@ I'm LaterVICTOR. I am passionate about learning new programming languages, techn
   - Discord.js
   - Html
 - 🔭 I’m currently working on ...
-  - A Minecraft [OniStudio](https://github.com/OniGameStudio/LaterVICTOR)
+  - A Minecraft [OniStudio](https://github.com/OniGameStudio/)
 - 💬 Ask me about ...
   - Anything! I love to help 💘
   - Twitter Direct Message: [Twitter](https://twitter.com/LaterVICTOR)
