@@ -7,7 +7,7 @@ I'm LaterVICTOR. I am passionate about learning new programming languages, techn
   - JavaScript / TypeScript
   - Node.js
   - Discord.js
-  - Html
+  - HTML
 - 🔭 I’m currently working on ...
   - A Minecraft [OniStudio](https://github.com/OniGameStudio/)
 - 💬 Ask me about ...
