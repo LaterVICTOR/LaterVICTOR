@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LaterVICTOR&show_icons=true&hide_border=false&title_color=ff652f&icon_color=red&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuxis&theme=radical&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=LaterVICTOR&theme=radical&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaterVICTOR&theme=radical&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=LaterVICTOR&theme=radical&layout=compact">
 
 
 ### I use
