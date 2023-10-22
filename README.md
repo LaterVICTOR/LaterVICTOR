@@ -1,20 +1,10 @@
-E### Hi there 👋
 
-I'm LaterVICTOR. I am passionate about learning new programming languages, technologies and programming 
+### Hi there 👋
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LaterVICTOR&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuxis&theme=radical&layout=compact">
 
-- 😳 Programming languages I use the most ...
-  - CCS#
-  - JavaScript / TypeScript
-  - Node.js
-  - Discord.js
-  - HTML
-- 🔭 I’m currently working on ...
-  - A Minecraft [OniStudio](https://github.com/OniGameStudio/)
-- 💬 Ask me about ...
-  - Anything! I love to help 💘
-  - Twitter Direct Message: [Twitter](https://twitter.com/LaterVICTOR)
-- ⚡ Fun fact: ...
-  - I love nature, art, writing, dreaming, exploring, learning, music, games and watching movies, [anime](https://upload.wikimedia.org/wikipedia/commons/6/6e/JoJo%27s_Bizarre_Adventure_logo.png) and series.
 
-| [![LaterVICTOR's Discord](https://lanyard.cnrad.dev/api/840694800193945610)](https://discord.com/users/840694800193945610) | ![LaterVICTOR's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaterVICTOR&count_private=true&show_icons=true&theme=radical) |
-|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+### I use
+<a href="https://nodejs.org/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/pl/docs/Web/JavaScript" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+ 
