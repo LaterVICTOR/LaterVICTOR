@@ -1,6 +1,5 @@
 
 ### Hi there 👋
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LaterVICTOR&show_icons=true&hide_border=false&title_color=ff652f&icon_color=blue&bg_color=blue&text_color=red&border_color=0c1a25" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaterVICTOR&theme=radical&layout=compact">
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?LaterVICTOR=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
