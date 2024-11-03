@@ -8,7 +8,7 @@ Soy un desarrollador apasionado por crear soluciones eficientes y dinámicas uti
 Actualmente, trabajo para **Soul Development**, donde me encargo de varias áreas, incluyendo:
 - Configuración y programación de mods, especialmente para **Fabric**.
 - Desarrollo de un lanzador para ofrecer una experiencia más plena y fácil en Minecraft.
-- Configuración y programación de un bot de Discord llamado **Whitelister**.
+- Configuración y programación del bot de Discord **Whitelister**.
 - Encargado de la página del API del **Soul Launcher**.
 
 ### 🚀 Sobre mí
