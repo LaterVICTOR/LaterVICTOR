@@ -4,10 +4,10 @@
 
 Soy un desarrollador apasionado por crear soluciones eficientes y dinámicas utilizando una variedad de tecnologías.
 
-### 🛠️ Mi trabajo en Soul Development
-Actualmente, trabajo para **Soul Development**, donde me encargo de varias áreas, incluyendo:
+### 🛠️ Mi trabajo en Ethernal Studio
+Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas, incluyendo:
 - Configuración y programación de mods, especialmente para **Fabric**.
-- Desarrollo del **Soul Development Launcher** para ofrecer una experiencia más plena y fácil en Minecraft.
+- Desarrollo del **Ethernal Studio Launcher** para ofrecer una experiencia más plena y fácil en Minecraft.
 - Configuración y programación del bots de Discord **Whitelister** y **Soul Development**.
 - Encargado de la página del API del **Soul Launcher**.
 
