@@ -21,8 +21,7 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 
 ### 🏆 Lenguajes principales
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaterVICTOR&hide_progress=donut)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaterVICTOR&hide_progress=donut&theme=merko&text_color=145c00&number_format=short)
 ### 🎯 Objetivo
 Crear experiencias digitales que combinan eficiencia y elegancia. Cada proyecto es una oportunidad para innovar y aprender.
 
