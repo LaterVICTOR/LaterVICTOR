@@ -17,7 +17,7 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 
 ### 📈 Mis estadísticas de GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaterVICTOR&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaterVICTOR&theme=merko&text_color=329a15&show_icons=true)
 
 ### 🏆 Lenguajes principales
 
