@@ -144,6 +144,18 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 
 ---
 
+### ⏱️ WakaTime Stats
+
+<div align="center">
+
+  <img src="https://wakatime.com/badge/user/LaterVICTOR.svg" alt="Total time coded since Jan 1 2024" />
+
+  <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=LaterVICTOR&layout=compact&theme=merko&text_color=329a15&border_radius=10&hide_border=true" />
+
+</div>
+
+---
+
 ### 📫 Contacto
 
 <p align="center">
