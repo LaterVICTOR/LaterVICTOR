@@ -22,6 +22,14 @@
 
 - 💬 No dudes en contactarme o hacer fork de mis proyectos
 
+### 💼 Especialidades
+
+- 🔌 Desarrollo de **APIs REST** y servicios backend
+
+- 🎮 Desarrollo de **Launchers de Minecraft** personalizados y mods
+
+- 🖥️ Desarrollo de aplicaciones de escritorio con **Tauri** (Rust + Web) y **Electron** (Node.js + Web)
+
 ---
 
 ### 🛠️ Mi trabajo en Ethernal Studio
@@ -34,7 +42,11 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 
 - 🤖 Configuración y programación de los bots de Discord **Whitelister** y **Ethernal Development**
 
-- 🌐 Encargado de la página del API del **Ethernal Launcher**
+- 🌐 Desarrollo de **APIs** y la página del API del **Ethernal Launcher**
+
+- 🚀 Desarrollo de **Launchers de Minecraft** personalizados
+
+- 💻 Desarrollo de aplicaciones de escritorio con **Tauri** y **Electron**
 
 ---
 
@@ -42,7 +54,7 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=java,php,js,ts,rust,nodejs,html,css,mysql,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,php,js,ts,rust,nodejs,html,css,mysql,git,vscode,electron&theme=dark" />
 
 </div>
 
@@ -64,6 +76,10 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
 
+<img alt="Tauri" src="https://img.shields.io/badge/Tauri-FFC131.svg?logo=tauri&logoColor=black">
+
+<img alt="Electron" src="https://img.shields.io/badge/Electron-47848F.svg?logo=electron&logoColor=white">
+
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
 
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
@@ -81,16 +97,6 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
   <img alt="LaterVICTOR GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LaterVICTOR&show_icons=true&theme=merko&text_color=329a15&border_radius=10&hide_border=true" />
 
   <img alt="LaterVICTOR GitHub Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaterVICTOR&layout=compact&theme=merko&text_color=145c00&border_radius=10&hide_border=true&number_format=short" />
-
-</div>
-
----
-
-### 🔥 GitHub Streak
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=LaterVICTOR&theme=merko&border_radius=10&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
