@@ -24,11 +24,15 @@
 
 ### 💼 Especialidades
 
-- 🔌 Desarrollo de **APIs REST** y servicios backend
+- 🔌 Desarrollo de **APIs REST** y servicios backend con integración completa
 
-- 🎮 Desarrollo de **Launchers de Minecraft** personalizados y mods
+- 🖥️ Desarrollo de aplicaciones de escritorio con **Tauri** y **Electron** conectadas a APIs
 
-- 🖥️ Desarrollo de aplicaciones de escritorio con **Tauri** (Rust + Web) y **Electron** (Node.js + Web)
+- 🌐 Desarrollo de **webs complejas** con **Composer** y páginas de administración avanzadas
+
+- 🎮 Desarrollo de **mods de Minecraft muy eficientes** y **Launchers personalizados**
+
+- ⚡ Creación de soluciones complejas y sistemas robustos
 
 ---
 
@@ -36,17 +40,17 @@
 
 Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas, incluyendo:
 
-- ⚙️ Configuración y programación de mods, especialmente para **Fabric**
+- ⚙️ Programación de **mods de Minecraft muy eficientes**, especialmente para **Fabric**
 
-- 🎮 Desarrollo del **Ethernal Client** para ofrecer una experiencia más plena y fácil en Minecraft
+- 🎮 Desarrollo del **Ethernal Client** y **Launchers de Minecraft** personalizados
 
 - 🤖 Configuración y programación de los bots de Discord **Whitelister** y **Ethernal Development**
 
-- 🌐 Desarrollo de **APIs** y la página del API del **Ethernal Launcher**
+- 🌐 Desarrollo de **APIs REST** completas y páginas de administración con **Composer**
 
-- 🚀 Desarrollo de **Launchers de Minecraft** personalizados
+- 💻 Desarrollo de aplicaciones de escritorio con **Tauri** y **Electron** conectadas a APIs
 
-- 💻 Desarrollo de aplicaciones de escritorio con **Tauri** y **Electron**
+- 🚀 Creación de soluciones complejas y sistemas robustos para diversas necesidades
 
 ---
 
@@ -99,6 +103,8 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 <img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01.svg?logo=astro&logoColor=white">
 
 <img alt="Composer" src="https://img.shields.io/badge/Composer-885630.svg?logo=composer&logoColor=white">
+
+<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white">
 
 </p>
 
