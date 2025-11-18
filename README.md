@@ -1,6 +1,10 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=329a15&center=true&vCenter=true&width=435&lines=Hola%2C+soy+LaterVICTOR+!;Software+Developer;Basado+en+tecnologías+modernas+🔥" alt="Typing SVG" />
+# 🌌 Bienvenido a LaterVICTOR
+
+### Hi there 👋, soy **LaterVICTOR**
+
+**Software Developer** | Basado en tecnologías modernas 🔥
 
 </div>
 
@@ -52,7 +56,13 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
 
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
+
+<img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white">
+
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
 
