@@ -26,13 +26,13 @@
 
 - 🔌 Desarrollo de **APIs REST** y servicios backend con integración completa
 
-- 🖥️ Desarrollo de aplicaciones de escritorio con **Tauri** y **Electron** conectadas a APIs
+- 🖥️ Desarrollo de aplicaciones de escritorio multiplataforma con **Tauri** y **Electron**
 
-- 🌐 Desarrollo de **webs complejas** con **Composer** y páginas de administración avanzadas
+- 🌐 Desarrollo de **aplicaciones web complejas** y sistemas de administración avanzados
 
-- 🎮 Desarrollo de **mods de Minecraft muy eficientes** y **Launchers personalizados**
+- 🎮 Especialización en desarrollo de **mods de Minecraft** y herramientas de juego
 
-- ⚡ Creación de soluciones complejas y sistemas robustos
+- ⚡ Arquitectura de software y creación de soluciones escalables y robustas
 
 ---
 
@@ -40,17 +40,17 @@
 
 Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas, incluyendo:
 
-- ⚙️ Programación de **mods de Minecraft muy eficientes**, especialmente para **Fabric**
+- ⚙️ Programación de **mods de Minecraft muy eficientes** para **Fabric API**
 
-- 🎮 Desarrollo del **Ethernal Client** y **Launchers de Minecraft** personalizados
+- 🎮 Desarrollo y mantenimiento del **Ethernal Client** y **Launchers de Minecraft** personalizados
 
 - 🤖 Configuración y programación de los bots de Discord **Whitelister** y **Ethernal Development**
 
-- 🌐 Desarrollo de **APIs REST** completas y páginas de administración con **Composer**
+- 🌐 Desarrollo y mantenimiento de la **API del Ethernal Launcher** y páginas de administración
 
-- 💻 Desarrollo de aplicaciones de escritorio con **Tauri** y **Electron** conectadas a APIs
+- 💻 Desarrollo de aplicaciones de escritorio con **Tauri** y **Electron** para la gestión del launcher
 
-- 🚀 Creación de soluciones complejas y sistemas robustos para diversas necesidades
+- 🔧 Mantenimiento de infraestructura y optimización de sistemas existentes
 
 ---
 
@@ -100,8 +100,6 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
 
-<img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01.svg?logo=astro&logoColor=white">
-
 <img alt="Composer" src="https://img.shields.io/badge/Composer-885630.svg?logo=composer&logoColor=white">
 
 <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white">
@@ -148,7 +146,7 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 
 <div align="center">
 
-  <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=LaterVICTOR&layout=compact&theme=merko&text_color=329a15&border_radius=10&hide_border=true" />
+  <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ethernal&layout=compact&theme=merko&text_color=329a15&border_radius=10&hide_border=true" />
 
 </div>
 
