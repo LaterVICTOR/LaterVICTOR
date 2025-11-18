@@ -54,7 +54,7 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=java,php,js,ts,rust,nodejs,html,css,mysql,git,vscode,electron&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,php,js,ts,rust,nodejs,html,css,mysql,git,vscode,electron,bootstrap,tailwind&theme=dark" />
 
 </div>
 
@@ -72,8 +72,6 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 
 <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white">
 
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
 
 <img alt="Tauri" src="https://img.shields.io/badge/Tauri-FFC131.svg?logo=tauri&logoColor=black">
@@ -87,6 +85,22 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 </p>
 
 </div>
+
+### 🎨 Frameworks y Librerías
+
+<p align="center">
+
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
+
+<img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01.svg?logo=astro&logoColor=white">
+
+<img alt="Composer" src="https://img.shields.io/badge/Composer-885630.svg?logo=composer&logoColor=white">
+
+</p>
 
 ---
 
