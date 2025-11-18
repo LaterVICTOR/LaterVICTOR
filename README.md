@@ -146,7 +146,7 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 
 <div align="center">
 
-  <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ethernal&layout=compact&theme=merko&text_color=329a15&border_radius=10&hide_border=true" />
+  <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=LaterVICTOR&layout=compact&theme=merko&text_color=329a15&border_radius=10&hide_border=true" />
 
 </div>
 
