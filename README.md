@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=329a15&center=true&vCenter=true&width=435&lines=Hola%2C+soy+LaterVICTOR+!;Desarrollador+Fullstack;Basado+en+tecnologías+modernas+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=329a15&center=true&vCenter=true&width=435&lines=Hola%2C+soy+LaterVICTOR+!;Software+Developer;Basado+en+tecnologías+modernas+🔥" alt="Typing SVG" />
 
 </div>
 
@@ -38,7 +38,7 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=java,php,js,nodejs,html,css,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,php,js,ts,rust,nodejs,html,css,mysql,git,vscode&theme=dark" />
 
 </div>
 
@@ -46,7 +46,7 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 
 <p align="center">
 
-<img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
+<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=openjdk&logoColor=white">
 
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
 
