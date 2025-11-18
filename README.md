@@ -102,6 +102,28 @@ Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas
 
 </p>
 
+### 🔧 Herramientas
+
+<p align="center">
+
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
+
+<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC.svg?logo=visual-studio-code&logoColor=white">
+
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white">
+
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=github-actions&logoColor=white">
+
+<img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=gradle&logoColor=white">
+
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+
+<img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white">
+
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white">
+
+</p>
+
 ---
 
 ### 📊 GitHub Stats
