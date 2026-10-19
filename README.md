@@ -110,7 +110,7 @@
 ### Estadísticas de GitHub
 
 <div align="center">
-  <img alt="LaterVICTOR GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LaterVICTOR&show_icons=true&bg_color=07130b&title_color=34d399&text_color=d4d4d8&icon_color=10b981&border_color=142e1b&border_radius=8" />
+  <img alt="LaterVICTOR GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LaterVICTOR&show_icons=true&count_private=true&bg_color=07130b&title_color=34d399&text_color=d4d4d8&icon_color=10b981&border_color=142e1b&border_radius=8" />
   <img alt="LaterVICTOR Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaterVICTOR&layout=compact&bg_color=07130b&title_color=34d399&text_color=d4d4d8&border_color=142e1b&border_radius=8" />
 </div>
 
