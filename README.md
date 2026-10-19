@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 LaterVICTOR
+# LaterVICTOR
 
 ### Founder of **Late Studios** • Full Stack & Systems Developer
 
@@ -20,40 +20,39 @@
 </p>
 
 <p align="center">
-  <b>📍 México (UTC -06:00)</b> • <b>⚡ Especialista en TypeScript, Python, Next.js & Tauri</b> • <b>🎧 Creador de Music Stage Console</b>
+  México (UTC -06:00) &nbsp;|&nbsp; TypeScript, Python, Next.js, Tauri & Rust &nbsp;|&nbsp; Music Stage Console
 </p>
 
 ---
 
 </div>
 
-### 🚀 Sobre mí
+### Sobre mí
 
-- 🪐 **Founder en [Late Studios](https://latervictor.dev)** — Estudio creativo enfocado en desarrollo de software independiente y soluciones digitales modernas.
-- 🎛️ **Creador de [Music Stage Console](https://latervictor.dev/download)** — Aplicación de escritorio profesional de alto rendimiento construida con **Tauri 2, React y Rust** para el control de consolas de audio en Minecraft.
-- 💡 **Full Stack & Systems Developer** apasionado por la arquitectura sólida, interfaces fluidas con diseño oscuro/minimalista y optimización a nivel nativo.
-- 🏛️ **Ex-miembro de Ethernal Studio** — Experiencia en desarrollo de mods para **Fabric API**, clientes y launchers de Minecraft, APIs REST y bots de Discord.
-- 🎯 **Enfoque actual**: Aplicaciones de escritorio modernas multiplataforma, ecosistemas web reactivos en **Next.js** y procesamiento de audio/DSP.
+- **Founder en [Late Studios](https://latervictor.dev)**: Estudio creativo y desarrollo de software independiente.
+- **Creador de [Music Stage Console](https://latervictor.dev/download)**: Aplicación de escritorio desarrollada con **Tauri 2, React y Rust** para el control y sincronización de consolas de audio en Minecraft.
+- **Full Stack & Systems Developer**: Especializado en arquitectura de software, aplicaciones de escritorio de alto rendimiento y desarrollo web moderno.
+- **Ex-miembro de Ethernal Studio**: Desarrollo previo de mods para **Fabric API**, clientes y launchers de Minecraft, APIs REST y bots de Discord.
 
 ---
 
-### 💼 Proyectos Activos & Trayectoria ("Working in")
+### Proyectos y experiencia
 
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3>🚀 Late Studios</h3>
-      <p><b>Rol: Founder</b></p>
-      <p>Estudio creativo y desarrollo de software independiente enfocado en soluciones eficientes, elegantes y escalables.</p>
+      <h3>Late Studios</h3>
+      <p><b>Founder</b></p>
+      <p>Estudio creativo y desarrollo de software independiente enfocado en soluciones eficientes y escalables.</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>🎛️ Music Stage Console</h3>
-      <p><b>Rol: Creator & Core Dev</b></p>
-      <p>App de escritorio (Tauri 2 + React + Rust) con faders motorizados, ecualizador gráfico maestro de 31 bandas, analizador RTA a 48 kHz y Spotify Workstation.</p>
+      <h3>Music Stage Console</h3>
+      <p><b>Creator & Core Dev</b></p>
+      <p>Aplicación de escritorio en Tauri 2 + React + Rust con faders motorizados, ecualizador gráfico maestro de 31 bandas, analizador RTA a 48 kHz y módulo Spotify Workstation.</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>🏛️ Ethernal Studio</h3>
-      <p><b>Rol: Ex-miembro</b></p>
+      <h3>Ethernal Studio</h3>
+      <p><b>Ex-miembro</b></p>
       <p>Desarrollo y mantenimiento de Ethernal Client, launchers de Minecraft, mods para Fabric API, bots de Discord y APIs de administración.</p>
     </td>
   </tr>
@@ -61,7 +60,7 @@
 
 ---
 
-### 🧰 Tech Stack & Tecnologías
+### Stack tecnológico
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,py,rust,php,html,css,mysql,nextjs,react,nodejs,tauri,astro,vite,tailwind,bootstrap,vscode,docker,git,github,npm,gradle,postman&theme=dark" alt="Skill Icons" />
@@ -69,7 +68,7 @@
 
 <br/>
 
-#### 💻 Lenguajes de Programación
+#### Lenguajes
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -82,7 +81,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00618A?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-#### 🎨 Frameworks, Librerías & Entornos
+#### Frameworks & Librerías
 <p align="center">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Tauri" src="https://img.shields.io/badge/Tauri-17677A?style=flat-square&logo=tauri&logoColor=white" />
@@ -94,7 +93,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-#### 🔧 Herramientas & DevOps
+#### Herramientas & DevOps
 <p align="center">
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0066B8?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-126487?style=flat-square&logo=docker&logoColor=white" />
@@ -108,7 +107,7 @@
 
 ---
 
-### 📊 GitHub & Actividad
+### Estadísticas de GitHub
 
 <div align="center">
   <img alt="LaterVICTOR GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LaterVICTOR&show_icons=true&bg_color=07130b&title_color=34d399&text_color=d4d4d8&icon_color=10b981&border_color=142e1b&border_radius=8" />
@@ -123,10 +122,9 @@
 
 ---
 
-### 📫 Contacto & Redes
+### Contacto
 
 <div align="center">
-  <p>¿Tienes un proyecto en mente o quieres colaborar? ¡Contáctame!</p>
   <p>
     <a href="https://latervictor.dev">
       <img src="https://img.shields.io/badge/Portafolio-latervictor.dev-10b981?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portafolio Web" />
@@ -141,5 +139,4 @@
       <img src="https://img.shields.io/badge/X-LaterVICTOR-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
   </p>
-  <sub>© Late Studios • Construyendo software elegante, rápido y robusto.</sub>
 </div>
