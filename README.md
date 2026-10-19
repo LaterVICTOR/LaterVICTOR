@@ -1,170 +1,145 @@
 <div align="center">
 
-# 🌌 Bienvenido a LaterVICTOR
+# 🌌 LaterVICTOR
 
-### Hi there 👋, soy **LaterVICTOR**
+### Founder of **Late Studios** • Full Stack & Systems Developer
 
-**Software Developer** | Basado en tecnologías modernas 🔥
+<p align="center">
+  <a href="https://latervictor.dev">
+    <img src="https://img.shields.io/badge/Website-latervictor.dev-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:contacto@latervictor.dev">
+    <img src="https://img.shields.io/badge/Email-contacto@latervictor.dev-0b1a0f?style=for-the-badge&logo=mail.ru&logoColor=white&borderColor=142e1b" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/LaterVICTOR">
+    <img src="https://img.shields.io/badge/Discord-LaterVICTOR-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://x.com/LaterVICTOR">
+    <img src="https://img.shields.io/badge/X-LaterVICTOR-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <b>📍 México (UTC -06:00)</b> • <b>⚡ Especialista en TypeScript, Python, Next.js & Tauri</b> • <b>🎧 Creador de Music Stage Console</b>
+</p>
 
 ---
+
+</div>
 
 ### 🚀 Sobre mí
 
-- 🔭 Trabajo en **Ethernal Studio** desarrollando soluciones eficientes y dinámicas
-
-- 💡 Me encanta crear aplicaciones sólidas y experiencias intuitivas que realmente aporten valor
-
-- 🧠 Siempre en busca de las últimas tecnologías para dominar
-
-- 🎯 Mi objetivo: Crear experiencias digitales que combinan eficiencia y elegancia
-
-- 💬 No dudes en contactarme o hacer fork de mis proyectos
-
-### 💼 Especialidades
-
-- 🔌 Desarrollo de **APIs REST** y servicios backend con integración completa
-
-- 🖥️ Desarrollo de aplicaciones de escritorio multiplataforma con **Tauri** y **Electron**
-
-- 🌐 Desarrollo de **aplicaciones web complejas** y sistemas de administración avanzados
-
-- 🎮 Especialización en desarrollo de **mods de Minecraft** y herramientas de juego
-
-- ⚡ Arquitectura de software y creación de soluciones escalables y robustas
+- 🪐 **Founder en [Late Studios](https://latervictor.dev)** — Estudio creativo enfocado en desarrollo de software independiente y soluciones digitales modernas.
+- 🎛️ **Creador de [Music Stage Console](https://latervictor.dev/download)** — Aplicación de escritorio profesional de alto rendimiento construida con **Tauri 2, React y Rust** para el control de consolas de audio en Minecraft.
+- 💡 **Full Stack & Systems Developer** apasionado por la arquitectura sólida, interfaces fluidas con diseño oscuro/minimalista y optimización a nivel nativo.
+- 🏛️ **Ex-miembro de Ethernal Studio** — Experiencia en desarrollo de mods para **Fabric API**, clientes y launchers de Minecraft, APIs REST y bots de Discord.
+- 🎯 **Enfoque actual**: Aplicaciones de escritorio modernas multiplataforma, ecosistemas web reactivos en **Next.js** y procesamiento de audio/DSP.
 
 ---
 
-### 🛠️ Mi trabajo en Ethernal Studio
+### 💼 Proyectos Activos & Trayectoria ("Working in")
 
-Actualmente, trabajo para **Ethernal Studio**, donde me encargo de varias áreas, incluyendo:
-
-- ⚙️ Programación de **mods de Minecraft muy eficientes** para **Fabric API**
-
-- 🎮 Desarrollo y mantenimiento del **Ethernal Client** y **Launchers de Minecraft** personalizados
-
-- 🤖 Configuración y programación de los bots de Discord **Whitelister** y **Ethernal Development**
-
-- 🌐 Desarrollo y mantenimiento de la **API del Ethernal Launcher** y páginas de administración
-
-- 💻 Desarrollo de aplicaciones de escritorio con **Tauri** y **Electron** para la gestión del launcher
-
-- 🔧 Mantenimiento de infraestructura y optimización de sistemas existentes
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🚀 Late Studios</h3>
+      <p><b>Rol: Founder</b></p>
+      <p>Estudio creativo y desarrollo de software independiente enfocado en soluciones eficientes, elegantes y escalables.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🎛️ Music Stage Console</h3>
+      <p><b>Rol: Creator & Core Dev</b></p>
+      <p>App de escritorio (Tauri 2 + React + Rust) con faders motorizados, ecualizador gráfico maestro de 31 bandas, analizador RTA a 48 kHz y Spotify Workstation.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🏛️ Ethernal Studio</h3>
+      <p><b>Rol: Ex-miembro</b></p>
+      <p>Desarrollo y mantenimiento de Ethernal Client, launchers de Minecraft, mods para Fabric API, bots de Discord y APIs de administración.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧰 Tech Stack & herramientas
+### 🧰 Tech Stack & Tecnologías
 
 <div align="center">
-
-  <img src="https://skillicons.dev/icons?i=java,php,js,ts,rust,nodejs,html,css,mysql,git,vscode,electron,bootstrap,tailwind&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,rust,php,html,css,mysql,nextjs,react,nodejs,tauri,astro,vite,tailwind,bootstrap,vscode,docker,git,github,npm,gradle,postman&theme=dark" alt="Skill Icons" />
 </div>
 
-### 💻 Lenguajes de Programación
+<br/>
 
+#### 💻 Lenguajes de Programación
 <p align="center">
-
-<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=openjdk&logoColor=white">
-
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
-
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
-
-<img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white">
-
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
-
-<img alt="Tauri" src="https://img.shields.io/badge/Tauri-FFC131.svg?logo=tauri&logoColor=black">
-
-<img alt="Electron" src="https://img.shields.io/badge/Electron-47848F.svg?logo=electron&logoColor=white">
-
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-255179?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-A73A0C?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00618A?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-</div>
-
-### 🎨 Frameworks y Librerías
-
+#### 🎨 Frameworks, Librerías & Entornos
 <p align="center">
-
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
-
-<img alt="Composer" src="https://img.shields.io/badge/Composer-885630.svg?logo=composer&logoColor=white">
-
-<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white">
-
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-17677A?style=flat-square&logo=tauri&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-28682E?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-E05315?style=flat-square&logo=astro&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-5A45A0?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-1A708A?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-### 🔧 Herramientas
-
+#### 🔧 Herramientas & DevOps
 <p align="center">
-
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
-
-<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC.svg?logo=visual-studio-code&logoColor=white">
-
-<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white">
-
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=github-actions&logoColor=white">
-
-<img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=gradle&logoColor=white">
-
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
-
-<img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white">
-
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white">
-
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0066B8?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-126487?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-E24329?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/npm-9E2827?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Composer" src="https://img.shields.io/badge/Composer-6C3D18?style=flat-square&logo=composer&logoColor=white" />
+  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub & Actividad
 
 <div align="center">
+  <img alt="LaterVICTOR GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LaterVICTOR&show_icons=true&bg_color=07130b&title_color=34d399&text_color=d4d4d8&icon_color=10b981&border_color=142e1b&border_radius=8" />
+  <img alt="LaterVICTOR Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaterVICTOR&layout=compact&bg_color=07130b&title_color=34d399&text_color=d4d4d8&border_color=142e1b&border_radius=8" />
+</div>
 
-  <img alt="LaterVICTOR GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LaterVICTOR&show_icons=true&theme=merko&text_color=329a15&border_radius=10&hide_border=true" />
+<br/>
 
-  <img alt="LaterVICTOR GitHub Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaterVICTOR&layout=compact&theme=merko&text_color=145c00&border_radius=10&hide_border=true&number_format=short" />
-
+<div align="center">
+  <img alt="LaterVICTOR WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=LaterVICTOR&layout=compact&bg_color=07130b&title_color=34d399&text_color=d4d4d8&border_color=142e1b&border_radius=8" />
 </div>
 
 ---
 
-### ⏱️ WakaTime Stats
+### 📫 Contacto & Redes
 
 <div align="center">
-
-  <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=LaterVICTOR&layout=compact&theme=merko&text_color=329a15&border_radius=10&hide_border=true" />
-
+  <p>¿Tienes un proyecto en mente o quieres colaborar? ¡Contáctame!</p>
+  <p>
+    <a href="https://latervictor.dev">
+      <img src="https://img.shields.io/badge/Portafolio-latervictor.dev-10b981?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portafolio Web" />
+    </a>
+    <a href="mailto:contacto@latervictor.dev">
+      <img src="https://img.shields.io/badge/Email-contacto@latervictor.dev-1e3a24?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://discord.com/users/LaterVICTOR">
+      <img src="https://img.shields.io/badge/Discord-LaterVICTOR-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="https://x.com/LaterVICTOR">
+      <img src="https://img.shields.io/badge/X-LaterVICTOR-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+  </p>
+  <sub>© Late Studios • Construyendo software elegante, rápido y robusto.</sub>
 </div>
-
----
-
-### 📫 Contacto
-
-<p align="center">
-
-  <a href="https://github.com/LaterVICTOR"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</p>
-
----
-
-<div align="center">
-
-  <p>Gracias por visitar mi perfil. ¡Explora mis repositorios y acompáñame en este viaje de desarrollo!</p>
-
-</div>
-
